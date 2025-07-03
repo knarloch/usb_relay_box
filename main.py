@@ -1,3 +1,4 @@
+#!/bin/env python3
 import USBRelay
 import sys
 import argparse
